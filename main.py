@@ -22,7 +22,7 @@ date = currentDate.strftime("%d")
 
 tracemalloc.start()
 
-API_TOKEN = '6254770087:AAGe_KnW_9MyEqXcVmbQb_FanURknAMp6cM'
+API_TOKEN = '6254770087:AAG_HbHstneHrbmiZJow5vjdZm0XBXi8Qyo'
 
 
 # Configure logging
